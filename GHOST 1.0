@@ -166,7 +166,7 @@ First.FontSize = Enum.FontSize.Size18
  
 First.Text = "  GHOSTA"
  
-First.TextColor3 = Color3.new(0.721569, 0.027451, 0.211765)
+First.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
 First.TextStrokeTransparency = 0
  
@@ -192,9 +192,9 @@ Second.Font = Enum.Font.SourceSans
  
 Second.FontSize = Enum.FontSize.Size18
  
-Second.Text = "cracked by VinC"
+Second.Text = "cracked by VinC+"
  
-Second.TextColor3 = Color3.new(0.721569, 0.027451, 0.211765)
+Second.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
 Second.TextStrokeTransparency = 0
  
@@ -222,7 +222,7 @@ Location.FontSize = Enum.FontSize.Size18
  
 Location.Text = "Home"
  
-Location.TextColor3 = Color3.new(0.588235, 0.0196078, 0.172549)
+Location.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
 Location.TextStrokeTransparency = 0
  
@@ -296,7 +296,7 @@ ImageLabel.Size = UDim2.new(0, 50, 0, 50)
  
 ImageLabel.Image = "rbxassetid://573066980"
  
-ImageLabel.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -316,7 +316,7 @@ TextLabel.FontSize = Enum.FontSize.Size24
  
 TextLabel.Text = "Players"
  
-TextLabel.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -364,7 +364,7 @@ ImageLabel_2.Size = UDim2.new(0, 46, 0, 46)
  
 ImageLabel_2.Image = "rbxassetid://573084509"
  
-ImageLabel_2.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel_2.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -384,7 +384,7 @@ TextLabel_2.FontSize = Enum.FontSize.Size24
  
 TextLabel_2.Text = "Server"
  
-TextLabel_2.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel_2.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -434,7 +434,7 @@ ImageLabel_3.Size = UDim2.new(0, 50, 0, 50)
  
 ImageLabel_3.Image = "rbxassetid://573078228"
  
-ImageLabel_3.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel_3.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -454,7 +454,7 @@ TextLabel_3.FontSize = Enum.FontSize.Size24
  
 TextLabel_3.Text = "LocalPlayer"
  
-TextLabel_3.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel_3.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -504,7 +504,7 @@ ImageLabel_4.Size = UDim2.new(0, 50, 0, 50)
  
 ImageLabel_4.Image = "rbxassetid://573081437"
  
-ImageLabel_4.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel_4.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -524,7 +524,7 @@ TextLabel_4.FontSize = Enum.FontSize.Size24
  
 TextLabel_4.Text = "Scripts"
  
-TextLabel_4.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel_4.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -574,7 +574,7 @@ ImageLabel_5.Size = UDim2.new(0, 46, 0, 46)
  
 ImageLabel_5.Image = "rbxassetid://573087376"
  
-ImageLabel_5.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel_5.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -594,7 +594,7 @@ TextLabel_5.FontSize = Enum.FontSize.Size24
  
 TextLabel_5.Text = "Miscellaneous"
  
-TextLabel_5.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel_5.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -644,7 +644,7 @@ ImageLabel_6.Size = UDim2.new(0, 46, 0, 46)
  
 ImageLabel_6.Image = "rbxassetid://573090294"
  
-ImageLabel_6.ImageColor3 = Color3.new(0.615686, 0.0352941, 0.129412)
+ImageLabel_6.ImageColor3 = Color3.new(0.19607843137255, 0.80392156862745, 0.19607843137255)
  
  
  
@@ -664,7 +664,7 @@ TextLabel_6.FontSize = Enum.FontSize.Size24
  
 TextLabel_6.Text = "Settings"
  
-TextLabel_6.TextColor3 = Color3.new(0.776471, 0.0235294, 0.137255)
+TextLabel_6.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
  
  
@@ -782,7 +782,7 @@ dd.FontSize = Enum.FontSize.Size14
  
 dd.Text = "Troll Spam"
  
-dd.TextColor3 = Color3.new(0.780392, 0.780392, 0.780392)
+dd.TextColor3 = Color3.new(0, 0.50196078431373, 0)
  
 dd.TextStrokeTransparency = 0.5
  
